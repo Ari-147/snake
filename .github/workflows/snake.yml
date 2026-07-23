@@ -23,7 +23,7 @@ jobs:
           color_dots: "#0ea5e9,#2563eb,#1d4ed8,#020617"
           color_background: "#020617"
           color_empty: "#0f172a"
-
+#fixed
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
