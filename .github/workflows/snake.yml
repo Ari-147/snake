@@ -17,7 +17,7 @@ jobs:
           github_user_name: Ari-147
       
           outputs: |
-            dist/github-snake.svg
+            dist/github-contribution-grid-snake.svg
     
           color_snake: "#22d3ee"
           color_dots: "#0ea5e9,#2563eb,#1d4ed8,#020617"
